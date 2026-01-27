@@ -1,0 +1,8 @@
+# Hardware ID Whitelist
+# Add one HWID per line
+# Lines starting with # are comments and will be ignored
+
+# Example HWIDs (replace these with actual HWIDs from your users)
+4ce285cc87f846ed525fcdefba118c3b104e93102a0d6900eb1150f2075a3616
+
+# Add more HWIDs below:
