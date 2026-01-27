@@ -3,7 +3,6 @@
 # Lines starting with # are comments and will be ignored
 
 # Example HWIDs (replace these with actual HWIDs from your users)
-f73bc650cd52ed52b31d16f3c6163a4249d830ff83e4683ce1d0d04093a7918d
+9a9535baa74a5f80b4bd145940a8b1a981378f1a0b9e548fac0acd378e1f6430
 
 # Add more HWIDs below:
-f73bc650cd52ed52b31d16f3c6163a4249d830ff83e4683ce1d0d04093a7918d
